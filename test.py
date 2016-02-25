@@ -12,11 +12,12 @@ model_path = os.path.abspath('phrases.bin')
 
 model = word2vec.load(model_path)
 
-tests = ['seymour', 'bkp', 'bare']
+tests = ['seymour', 'bkp', 'bare', u'куплю', u'продано']
 
 for w in tests:
     indexes, metrics = model.cosine(w, 20)
     print 'cosine for [%s]' % w
     for i in range(0, len(indexes)):
         print ' - %s %f' % (model.vocab[indexes[i]], metrics[i])
+
 

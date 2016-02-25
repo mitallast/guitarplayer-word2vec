@@ -24,8 +24,9 @@ for key, value in db:
 	vectors = map(lambda w: model.get_vector(w), words)
 	metrics = np.dot(vectors, search.T)
 	best = metrics[metrics.argmax()]
-	if best > 0.9:
-		print key, value
+	# filter full matched docs
+        if best > 0.8 and best < 1:
+	    print key, value
 	
 	
 db.close()

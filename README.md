@@ -18,35 +18,31 @@ cosine for [bare]
 warpig nailbomb rebel yell calibrated open aftermath painkiller hawk knuckle
 ```
 
-Example output of predict.py:
+Example output of predict.py with keyword "bare":
 
 ```
-101389.0 Bare Knuckle, Lundgren + Schaller и Floyd
-106282.0 Продаю Bare Knuckle Nailbomb
-137694.0 Bare Knuckle Nailbomb. Продан
-157910.0 Cэт Bare Knuckle pickups "Rebel Yell"
-164774.0 Продано Bare Knuckle Holydiver 7
-168589.0 Обмен Bare Knukle PAinkiller, DiMarzio Fast Track 2
-172148.0 Продан Bare Knuckle Nailbomb (bridge)
-174214.0 Продано Bare Knuckle Holydiver
-180655.0 Bare Knuckle Pig-90 (горячие P90)
-182311.0 Предложение СНЯТО. Меняю 1:1 Bare Knuckle NailBomb на Gibson 57+
-182610.0 Bare Knuckle Rebel Yell (продан)
-186031.0 Продам звукосниматели Bare Knuckle Warpig, Dimarzio Super Distortion, EMG-58
-187009.0 Продаю комплект Bare Knuckle Cold Sweat - Москва
-189119.0 ОБМЕН Bare Knukle WARPIG (сет) на Bare Knukle серии Vintage или 8000р
-190952.0 Сет Bare Knukle COLD SWEAT.7.500.Отправлю ЕМС.
-193249.0 Bare Knucke Nailbomb Bridge (ПРОДАН)
-193750.0 [Москва] Bare Knuсkle Nailbomb Calibrated Set - ПРОДАНО.
-194915.0 Bare Knuckle Cold Sweat set ПРОДАМ!
-196024.0 Звукосниматель Bare Knuckle - War Pig для семиструнки 4000р
-198755.0 куплю bare knuckle black dog сет
-199310.0 Bare Knuckle,Lollar,Gibson
-204518.0 ПРОДАН BARE KNUCKLE WARPIG
-204560.0 7миструные Seymour Duncan SH8 Invader 7, SH6 7, Bare Knuckle pain killer 7
-205461.0 ПРОДАМ\ОБМЕНЯЮ Bare Knuckle Miracle Man 7 струн!
-208028.0 Bare Knuckle Cold Sweat calibrated covered set - ПРОДАМ !!!
-213707.0 Обменяю Bare Knuckle Warpig
-214950.0 Продал: Bare Knukle humbuckers: Holydiver neck.
-216727.0 ПРОДАЮ ДАТЧИКИ BARE KNUCKLE VH-II humbucker
+164755.0 Продал Bareknuckle Nailbomb
+234349.0 Продам сэт АКТИВНЫХ звукоснимателей Gibson GEM Active Open Coil pickups
+247365.0 Продаю звукосниматель Bareknuckle Nailbomb новый 3500р в Москве
+261901.0 Продам/обменяю BareKnuckle Nailbomb 7 strings Питер. 3600руб.
+263720.0 Bareknuckle Warpig bridge 6 string
+268289.0 BKP warpig pickups продам
+279797.0 Продано BKP Aftermath
+285476.0 BKP Painkiller - продан
+290040.0 Продам сэт Rebel Yell и 57 classic
+294677.0 BKP Aftermath (копия от Fokin Pickups)
+299241.0 BKP Painkiller 7
+300253.0 BKP Aftermath set
+303061.0 Продам\обменяю 7миструнные Bkp Aftermath сэт или по одному
+303144.0 (ПРОДАНО) Продам звукосниматель BareKnuckle Aftermath (7 string)
+322729.0 ПродаН сэт BK Aftermath 7str за 5000 рублей
+323783.0 BKP Aftermath Bridge + BKP Cold Sweat Neck (7string)
+325895.0 сэт BK Aftermath 7str 7500руб(продано)
+333770.0 BKP Aftermath 7-string Battle-worn
+334467.0 Продам BKP 6 String Aftermath humbucker - Calibrated Covered Set
+336941.0 Продам сет BKP nailbomb ПРОДАНО!
+340983.0 Продал BareKnuckle Warpig
+345564.0 BKP Warpig Covered Set 7
+350063.0 Куплю BKP Painkiller или Aftermath
+350798.0 Крутанские хамбы: BKP Rebel Yell Neck + Amalfitano Bridge. продано
 ```
