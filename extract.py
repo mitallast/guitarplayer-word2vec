@@ -9,7 +9,7 @@ sys.setdefaultencoding(locale.getdefaultlocale()[1])
 
 db = plyvel.DB('guitarplayer.db', create_if_missing=False)
 
-f = open('phrases.txt', 'w')
+f = open('text.txt', 'w')
 
 for key, value in db:
     print key, value
