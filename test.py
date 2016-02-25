@@ -15,7 +15,8 @@ model = word2vec.load(model_path)
 tests = ['seymour', 'bkp', 'bare']
 
 for w in tests:
-    indexes, metrics = model.cosine(w)
+    indexes, metrics = model.cosine(w, 20)
     print 'cosine for [%s]' % w
-    print (string.join(model.vocab[indexes], ' '))
+    for i in range(0, len(indexes)):
+        print ' - %s %f' % (model.vocab[indexes[i]], metrics[i])
 
